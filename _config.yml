@@ -1,10 +1,12 @@
 title: Luis Costa
 email: luispcosta18@gmail.com
-description: >- 
-  My personal website
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+description:
+baseurl: ""
+url: "https://luispcosta.github.io"
 github_username:  luispcosta
-
-# Build settings
 theme: minima
+show_excerpts: true
+
+header_pages:
+ - about.md
+ - projects.md
