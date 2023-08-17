@@ -6,7 +6,7 @@ permalink: /about/
 
 Hello internet! I'm **Luís Costa**. My friends call me Pedro, and my co-workers call me Luís, so you're free to use whatever first name you want.
 
-I'm from Portugal, and I'm currently working at [runtime revolution](https://runtime-revolution.com) as a team manager. 
+I'm from Portugal, and I'm currently working at [runtime revolution](https://runtime-revolution.com) as a team lead. 
 
 You can download my CV [here](/resume.pdf), or you can contact me [here](mailto:luispcosta18@gmail.com).
 
